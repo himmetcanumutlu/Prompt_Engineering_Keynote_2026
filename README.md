@@ -32,7 +32,7 @@ It covers the architectural evolution of Large Language Models (LLMs) from passi
 
 ## 📁 Repository Structure
 
-- `Otonom_AI_Agent_Mimarisi.pdf`: The minimalist, high-contrast, annotated presentation slide deck used during the session.
+- `Presentation.pdf`: The minimalist, high-contrast, annotated presentation slide deck used during the session.
 - `LICENSE`: MIT License.
 
 ---
